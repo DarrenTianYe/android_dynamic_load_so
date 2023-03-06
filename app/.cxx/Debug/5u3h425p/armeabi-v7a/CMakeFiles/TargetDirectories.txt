@@ -1,0 +1,4 @@
+/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/armeabi-v7a/CMakeFiles/nativecpptwo.dir
+/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/armeabi-v7a/CMakeFiles/nativecpp.dir

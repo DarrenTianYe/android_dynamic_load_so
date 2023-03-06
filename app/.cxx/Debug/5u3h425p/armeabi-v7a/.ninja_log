@@ -1,0 +1,5 @@
+# ninja log v5
+0	720	1677400016	CMakeFiles/nativecpptwo.dir/test.cpp.o	5cca8b445c4d377b
+1	756	1677400016	CMakeFiles/nativecpp.dir/native-lib.cpp.o	b015d319f2210518
+756	838	1677400016	/Users/darren/work/code/github/SillyBoy/app/build/intermediates/cxx/Debug/5u3h425p/obj/armeabi-v7a/libnativecpp.so	1bff1f64fd1f8494
+838	868	1677400016	/Users/darren/work/code/github/SillyBoy/app/build/intermediates/cxx/Debug/5u3h425p/obj/armeabi-v7a/libnativecpptwo.so	82e5e0bfaf8085f7

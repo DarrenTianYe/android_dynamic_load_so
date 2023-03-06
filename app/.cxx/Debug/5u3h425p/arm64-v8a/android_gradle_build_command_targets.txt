@@ -1,0 +1,8 @@
+Executable : /Users/darren/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/arm64-v8a
+nativecpp
+nativecpptwo
+jvmArgs : 
+

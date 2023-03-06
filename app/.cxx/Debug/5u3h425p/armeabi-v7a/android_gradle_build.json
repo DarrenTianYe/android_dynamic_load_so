@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "/Users/darren/work/code/github/SillyBoy/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/darren/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/darren/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "nativecpp::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "nativecpp",
+      "output": "/Users/darren/work/code/github/SillyBoy/app/build/intermediates/cxx/Debug/5u3h425p/obj/armeabi-v7a/libnativecpp.so",
+      "runtimeFiles": []
+    },
+    "nativecpptwo::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "nativecpptwo",
+      "output": "/Users/darren/work/code/github/SillyBoy/app/build/intermediates/cxx/Debug/5u3h425p/obj/armeabi-v7a/libnativecpptwo.so",
+      "runtimeFiles": [
+        "/Users/darren/work/code/github/SillyBoy/app/build/intermediates/cxx/Debug/5u3h425p/obj/armeabi-v7a/libnativecpp.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/darren/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/darren/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

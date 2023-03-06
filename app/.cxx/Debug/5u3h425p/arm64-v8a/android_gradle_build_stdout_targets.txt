@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/arm64-v8a'
+ninja: no work to do.

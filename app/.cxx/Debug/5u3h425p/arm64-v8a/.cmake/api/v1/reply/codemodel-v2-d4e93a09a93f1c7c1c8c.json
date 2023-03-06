@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "nativecpp",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "nativecpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nativecpp-Debug-ff73e4b089e03e3c0217.json",
+					"name" : "nativecpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nativecpptwo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nativecpptwo-Debug-cab7e1f6dab57acd01a5.json",
+					"name" : "nativecpptwo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/arm64-v8a",
+		"source" : "/Users/darren/work/code/github/SillyBoy/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

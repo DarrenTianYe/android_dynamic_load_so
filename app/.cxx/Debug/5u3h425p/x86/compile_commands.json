@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/x86",
+  "command": "/Users/darren/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/darren/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/darren/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnativecpptwo_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/nativecpptwo.dir/test.cpp.o -c /Users/darren/work/code/github/SillyBoy/app/src/main/cpp/test.cpp",
+  "file": "/Users/darren/work/code/github/SillyBoy/app/src/main/cpp/test.cpp"
+},
+{
+  "directory": "/Users/darren/work/code/github/SillyBoy/app/.cxx/Debug/5u3h425p/x86",
+  "command": "/Users/darren/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/darren/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/darren/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnativecpp_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/nativecpp.dir/native-lib.cpp.o -c /Users/darren/work/code/github/SillyBoy/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/darren/work/code/github/SillyBoy/app/src/main/cpp/native-lib.cpp"
+}
+]
